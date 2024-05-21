@@ -240,8 +240,7 @@ public class Main {
         System.out.println("====================NAUJA TEMA==============");
 
 
-git config --global user.name "D0D0Cat"
-        git config --global user.email "tomaskatalinas@gmail.com"
+
 
 
 
